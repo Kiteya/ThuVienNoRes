@@ -15,4 +15,12 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\Template\.DS_Store" />
+    <None Include="wwwroot\Template\fonts\.DS_Store" />
+    <None Include="wwwroot\Template\images\.DS_Store" />
+    <None Include="wwwroot\Template\scss\.DS_Store" />
+    <None Include="wwwroot\Template\scss\bootstrap\.DS_Store" />
+  </ItemGroup>
+
 </Project>
